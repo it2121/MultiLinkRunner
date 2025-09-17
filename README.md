@@ -116,7 +116,7 @@ When you run the app:
 
 Specify your license here, e.g.:
 
-MIT License © YYYY [Your Name]
+MIT License © 2025 Mohammed Talib
 
 ---
 
