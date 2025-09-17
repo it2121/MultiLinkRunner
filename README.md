@@ -128,5 +128,5 @@ Feel free to open pull requests, submit issues, or suggest improvements.
 
 ## Author
 
-[Your Name]  
-[Contact info]  
+Mohammed Talib   
+phpmoon21@gmail.com
